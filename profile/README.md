@@ -1,12 +1,51 @@
-## Hi there 👋
+# Muerta Toolbox App | All-In-One Toolbox for Developers
 
-<!--
+<p align="center">
+  <a href="https://muertatoolbox.online/"><img src="images/Muerta.png?raw=true" alt="Muerta Toolbox App | All-In-One Toolbox for Developers"></a>
+</p>
 
-**Here are some ideas to get you started:**
+## All-In-One Toolbox for Developers
+✅ 20+ carefully crafted developer tools
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+✅ macOS app, fast & beautiful
+
+✅ Work offline, and respect your data
+
+🎯 [muertatoolbox.online](https://muertatoolbox.online/)
+
+## Features
+
+- Base64 Encode & Decode
+- Cron Job Parser
+- CSS Beauty/ Minify
+- Excel Converter
+- Generate cURL
+- Hash Generator
+- HTML Color Codes
+- HTML Beauty/ Minify
+- HTML Preview
+- HTML to Slim
+- HTML to Jsx
+- Image to Data URL/ Base64
+- Json Format
+- Json to YAML / YAML to Json
+- Json to CSV / CSV to Json
+- Lorem Ipsum Generator
+- Markdown to HTML
+- String case converter
+- Ruby Hash/ Js Object to Json
+- SQL Formater
+- Text diff checker
+- Text size checker
+- URL Parser
+- URL Encode & Decode
+- XML Beauty
+- Comming soon ...
+
+## Download
+
+[Click here](https://muertatoolbox.online/download/)
+
+## Feedback
+
+## Issue Report

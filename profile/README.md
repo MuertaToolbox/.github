@@ -1,7 +1,7 @@
 # Muerta Toolbox App | All-In-One Toolbox for Developers
 
 <p align="center">
-  <a href="https://muertatoolbox.online/"><img src="images/Muerta.png?raw=true" alt="Muerta Toolbox App | All-In-One Toolbox for Developers"></a>
+  <a href="https://muertatoolbox.online/"><img src="/profile/images/Muerta.png?raw=true" alt="Muerta Toolbox App | All-In-One Toolbox for Developers"></a>
 </p>
 
 ## All-In-One Toolbox for Developers
